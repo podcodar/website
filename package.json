@@ -2,7 +2,7 @@
   "name": "nase-next-webapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://marco-souza.github.io/base-next-app",
+  "homepage": "http://podcodar.github.io/website",
   "scripts": {
     "dev": "next dev",
     "lint": "prettier --check .",
